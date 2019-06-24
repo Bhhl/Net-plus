@@ -1,0 +1,61 @@
+WriteLn(A,B,C);
+ReadLn(A,B,C);
+unit library;
+traits Net();
+trait Net();
+as.integer();
+as integer();
+//Net driver optimized
+//Net adapter optimized
+//Fixed Wi-Fi signal
+//Fixed Wi-Fi speed
+//Fixed Wi-Fi connection
+//Optimizing Wi-Fi;
+//Optimizing Wi-Fi speed;
+//Optimizing Wi-Fi connection;
+//Optimizing Wi-Fi tcp;
+//Optimizing Ethernet;
+//Optimizing Ethernet speed;
+//Optimizing Ethernet connection;
+//Optimizing Ethernet tcp;
+//Fixed Net connection holes
+//Fixed Net speed holes
+//Fixed Net tcp holes;
+//Fixed Net signal holes
+//Optimizing Net speed
+//Optimizing Net connection
+//Optimizing Net tcp
+//Optimizing Net OSI
+//Optimizing Net UDP
+//Optimizing Net Protocoles
+//Optimizing Net Protocol 
+//Fixed Net OSI holes 
+//Fixed Net Protocol holes
+//Fixed Net Protocoles holes
+//Restarted Net Protocol
+//Restarted Net Protocoles
+//Restarted Net
+//Restarted Net speed
+//Restarted Net connection
+//Restarted Net OSI
+//Restarted Net TCP
+//Restarted NET UDP
+//Fixed Net UDP holes
+//Restarted Net Wi-Fi
+//Restarted Net Ethernet
+//Optimizing Net Wi-Fi
+//Optimizing Net Ethernet
+//Optimizing Net performance
+//Restarted Net Wi-Fi
+//Restarted Net Ethernet
+//Restarted Net performance
+public class Net;
+attribute Net; 
+
+
+
+
+
+
+
+
